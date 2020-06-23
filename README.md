@@ -20,7 +20,7 @@ The [ipython notebook](https://github.com/AIEthics2020/Fairness-Aware-Ranking/bl
     ├── experiment.py                    <- The Simulation Framework 
     ├── fair_algorithms.py               <- The fair algorithms mentioned in the paper
     ├── metrics.py                       <- The set of metrics to evaluate bias
-    ├── plot_utils.py                <- Utilities for plotting the results
+    ├── plot_utils.py                    <- Utilities for plotting the results
     ├── utils.py                         <- Some utility functions
     ├── main.py                          <- The final executable to run the simulations
 
